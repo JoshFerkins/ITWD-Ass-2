@@ -1,0 +1,30 @@
+[
+  {
+    "query": "What is the bond for?",
+    "answer": "A bond is used for securing you an item, if you damage the item, we retain the bond; however if you return the item in healthy condition, we return the bond"
+  },
+  {
+    "query": "Why do I have to pay a service fee?",
+    "answer": "This is to pay for our workers labour hours"
+  },
+  {
+    "query": "Do I need a charger with my courtesy phone?",
+    "answer": "No, it is an optional accessory; however we are not responsible for ensuring your courtesy phone maintains a full charge"
+  },
+  {
+    "query": "Why don't businesses pay a bond?",
+    "answer": "Business maintain monthly payments covering their employees at a fixed cost"
+  },
+  {
+    "query": "How come you need my address?",
+    "answer": "This is for a billing address and to ensure your validity. Your information is maintained at high security for the duration of its purpose"
+  },
+  {
+    "query": "What if I need a phone for longer than one day?",
+    "answer": "Any item borrowed for longer than 24 hours has their warranty coverage removed"
+  },
+  {
+    "query": "What does having a warranty do for me?",
+    "answer": "Having a warranty under your bond allows you to skip a service fee. A warrant is only available for borrows under 24 hours."
+  }
+]

@@ -1,0 +1,114 @@
+
+
+/*Declare variables in CSS files*/
+:root {
+	--main-color: #000664;
+	--header-color: #2C3E50;
+	--nav-color: #4DD0E1;
+	--customer-detail-color: #FCF3CF;
+	--repair-detail-color: #D5F5E3;
+	--courtesy-phone-color: #2874A6;
+	--cost-section-color: #EDBB99;
+	--button-section-color: #EDBB99;
+	--footer-color: #2C3E50;
+	--main-color: #f5fcfc;
+	--font-color: #000000;
+}
+
+#rtable, #rth, #rtd {
+	border: 1px solid black;
+	border-collapse: collapse;
+  }
+  
+#rth, #rtd {
+	padding-top: 10px;
+	padding-bottom: 2px;
+	padding-left: 30px;
+	padding-right: 60px;
+  }
+
+/* << RECEIPT >> */
+.image-style {
+	display: block; 
+	height: 150px; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+/* << FAQS >> */
+
+.question-box {
+  width: 40%;
+  padding: 20px;
+	margin: 20px;
+  box-sizing: border-box;
+	background-color: lightgray;
+}
+
+/*[[=====================================================]]*/
+
+/* <***> EXTENSION PAGE :: ADVANCED JAVASCRIPT <***> */
+
+/*[[=====================================================]]*/
+
+/* << DEMO 1 :: File Upload >> */
+
+#display-image{
+	width: 400px;
+	height: 225px;
+	border: 1px solid black;
+	background-position: center;
+	background-size: cover;
+}
+
+/* << DEMO 2 :: Draggable >> */
+
+.drag-area {
+	width: 215px;
+	height: 200px;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid black;
+}
+
+.drop-area {
+	text-align: center;
+	color: blue;
+}
+
+.box {
+	width: 200px;
+	height: 30px;
+	margin: 10px;
+	background: white;
+	color: black;
+	border: 1px black solid;
+	text-align: center;
+}
+
+.result {
+	display: inline-block;
+	margin-left: 30px;
+}
+
+
+#form{
+  display:none;
+}
+
+
+
+/* << DEMO 3 :: Map >> */
+
+path {fill:lightgray;stroke:black;cursor:crosshair;}
+.map-enabled {fill:blueviolet;}
+.map-enabled:hover {fill:yellow;transition:0.3s;}
+.map-tooltip {
+  position: absolute;
+  display: none;
+  border-radius: 5px;
+  background: var(--main-color);
+  color: var(--text-color);
+  font-size: smaller;
+  padding: 6px;
+}
